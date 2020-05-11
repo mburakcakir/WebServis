@@ -1,0 +1,2 @@
+rootProject.name='WEB SERVICE'
+include ':app'
